@@ -10,7 +10,7 @@ estes comandos abaixo contém input e output*/
 retorno nomeDaFunção e quais parametros ela recebe
 retorno float
 nome Media
-parametro1 => valor1 sendo float
+parametro1 => valor1 sendo float aa
 parametro2 => valor2 sendo float
 */
 float Media(float valor1, float valor2)
